@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "game-typing"
+    }
+  },
+  "defaultProject": "game-typing",
+  "cli": {
+    "analytics": "a46fe45e-73e1-4bdc-91e9-1b7f8ddf812f"
+  }
 }
